@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 .DS_Store
 summary
 node_modules
 dist
 coverage
+=======
+.DS_Store
+>>>>>>> ef4b179ff2897aaaa56ab18cc47b2ef45497895f
