@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .DS_Store
 summary
 node_modules
@@ -7,3 +8,6 @@ coverage
 =======
 .DS_Store
 >>>>>>> ef4b179ff2897aaaa56ab18cc47b2ef45497895f
+=======
+.DS_Store
+>>>>>>> c3622121a8cc2c4d499760155ad30a0e4425b37a
